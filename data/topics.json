@@ -1,0 +1,175 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_sold": 88,
+      "price": 58,
+      "title": "Learn English online",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      
+      "image_url": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/311809688_148935761194387_607249132622000393_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEa4fRvl6r3ary9RIlA_5w5FvdYuP9uDswW91i4_24OzG_j61zCqaN4VgK_G6sdQwwDXEZ6JirjwTeHAf61UO5d&_nc_ohc=TlTww7irWdsAX8oCNu_&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AT8gvTKffKcieh_mSneFuAyRNw4LoqECDu8tMOuBLBznVg&oe=635D2F5A",
+
+      "details": "Join millions of learners worldwide and discover English learning online – whatever your age, ability or ambition. Our highly qualified English teachers are by your side and provide you with the right tools to help you interact confidently in the real world and achieve the professional and personal success you are working towards."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab1a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_sold": 108,
+      "price": 38,
+      "title": "Ethical Hacking",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      
+      "image_url": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/311926598_148935631194400_8273540314349973761_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHZCs0-66EaW0gfQF24vKfc5UyRAUwaFQblTJEBTBoVBiFcPyFV9DCT7OnEU3TCWCAjNvbOKtII5IOg53Bu2X8_&_nc_ohc=exl4nQuf5icAX_KgrO1&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AT_IRZTImVpHiC_4LsMaKcE0PKJ6Rdd_P2NVa1boQiizCw&oe=635CA244",
+
+      "details": "The Certified Ethical Hacker (C|EH) credentialing and provided by EC-Council is a respected and trusted ethical hacking program in the industry. Since the inception of Certified Ethical Hacker in 2003, the credential has become one of the best options for industries and companies across the world. The C|EH exam is ANSI 17024 compliant, adding value and credibility to credential members. It is also listed as a baseline certification in the US Department of Defense (DoD) Directive 8570 and is a NSCS Certified Training.Today, you can find Certified Ethical Hackers working with some of the finest and largest companies across industries like healthcare, financial, government, energy and much more!."
+    },
+
+
+
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab2a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.4, "badge": "Excellent" },
+      "total_sold": 18,
+      "price": 93,
+      "title": "Programming for Robotics",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      
+      "image_url": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/313127950_148935677861062_6366390940304795095_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEsxE8NLEwhrC6BKsPthMb22WhpbqpIjRzZaGluqkiNHISQowJL55BaaJf7-XG8aXhySOZhadi7er3knrR4iTaw&_nc_ohc=GZYHuk1lqNsAX9uJERk&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AT_W3vC5rUkwxuveNMSyOk-_fGtbx36NT0X6ZJxCAFg2wg&oe=635D0B88",
+
+      "details": "“Robotics is an amalgamation of scientific and engineering discipline which is focused on the use of artificial, embodied capabilities programmable in two or more axes with a degree of autonomy, moving in its zone for performing certain intended tasks. Programming languages are having a insightful impact on robot integration in industrial machines. The sky is the limit for robotic industrial applications. Robotic software plays a key role in performing complex operations and accurate functionalities. To start programming in robotics, you must start learning various types of languages to make a robot work. Although robotics is a complex subject, learning these programming languages will help you design a project to create an easy-to-use interfaces.” "
+    },
+
+
+
+    
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab4a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      "rating": { "number": 4.9, "badge": "Excellent" },
+      "total_sold": 38,
+      "price": 48,
+      "title": "Programming the internet of things",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      
+      "image_url": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/313128854_148935717861058_5843876406410211487_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHBEtppdW4NY9UrUf9WZVVmXkO1uuB-2yteQ7W64H7bK7IY5ruWr46veL24pC6DerFbzXneHJfzp7fx9RqS0B5Q&_nc_ohc=uhlKJp94WI0AX--JHQA&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AT8B5v9odagnIpwWbrPknNaFpsxOzCENi6FiS-JfQ4OiIA&oe=635DD8B5",
+
+      "details": "Learn how to program the Internet of Things with this hands-on guide. By breaking down IoT programming complexities in step-by-step, building-block fashion, author and educator Andy King shows you how to design and build your own full-stack, end-to-end IoT solution--from device to cloud. This practical book walks you through tooling, development environment setup, solution design, and implementation. You'll learn how a typical IoT ecosystem works, as well as how to tackle integration challenges that crop up when implementing your own IoT solution. Whether you're an engineering student learning the basics of the IoT, a tech-savvy executive looking to better understand the nuances of IoT technology stacks, or a programmer building your own smart house solution, this practical book will help you get started. "
+    },
+
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab8a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_sold": 64,
+      "price": 81,
+      "title": "Android Development",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      
+      "image_url": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/311832802_148935691194394_3336647415014031812_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFrgo3IpYbhFWFsLZKu21tg-mOj07KODHz6Y6PTso4MfHIvJxmiC9SOreBOeGo0wQ4-r2ipDvdXqD-bFY7UQPmP&_nc_ohc=ldAGl4OS6VoAX8CD-cP&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AT_SR0a9jmd3KnU5WNXhQXeuAyaDTCxMFfZqlx1BCxDlUA&oe=635CA2FE",
+
+      "details": "Develop Android games and deploy them to multiple device types on Android, Chrome OS, and Windows by using the Android Game Development Kit and Google Play. Learn to use tools, best practices, and game services that support your development workflow, improve game performance, and include a wide audience of players.These guides primarily target intermediate game developers. However, if you're new to developing games, the Android game development basics guide introduces the tools and libraries to get you started. "
+    },
+
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab7a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "06",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_sold": 41,
+      "price": 17,
+      "title": "CAD and Digital Manufacture",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      
+      "image_url": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/313021647_148935681194395_4329230505252535548_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH74PQYr-CJcDZvPzfm4b2yjyaQDccH44-PJpANxwfjj9sjh57Cu1-NS-VAmzpQz7dt8phlXvxCrwSfIMCCtXfi&_nc_ohc=RgUH3EXwjDUAX-M8AiF&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AT8OoK-kvzJr-seWmkb-ScequRg3SETY8LMeff9QNsXSdw&oe=635C4E33",
+
+      "details": "The future of making is here, bringing with it radical changes in the way things are designed, made, and used. And it’s disrupting every industry. With the right knowledge and tools, this disruption is your opportunity—whether you're an entrepreneur, designer, or engineer. Today’s dominant technology trends—cloud computing, mobile technology, social connection, and collaboration—are driving businesses and consumers alike to explore profoundly different ways to design, make, and use things. This kind of industry transformation has happened before, but the pace of change is now much faster. In today’s competitive landscape, anyone can be an innovator—and it’s all about who innovates first. Through this specialization, you will learn the foundations of product innovation and digital manufacturing while developing your technical skills within Autodesk® Fusion 360™. Plus, by completing this Specialization, you’ll unlock an Autodesk Credential as further recognition of your success! The Autodesk Credential comes with a digital badge and certificate, which you can add to your resume and share on social media platforms like LinkedIn, Facebook, and Twitter. Sharing your Autodesk Credential can signal to hiring managers that you’ve got the right skills for the job and you’re up on the latest industry trends like digital manufacturing. Looking for Autodesk Fusion 360 certification prep courses? Check out additional learning resources to help you uplevel your skills.. "
+    },
+
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab9a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "07",
+      "rating": { "number": 4.4, "badge": "Excellent" },
+      "total_sold": 78,
+      "price": 98,
+      "title": "Digital Marketing",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      
+      "image_url": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/311778055_148935641194399_910043111965543724_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF23lxbFf9s9PSWp82so-kxEv8aELXyQWMS_xoQtfJBY4-y4Psame6pAcbhbPeYWVMu3jrtW5SKaTO3-ydUOtJl&_nc_ohc=Gb2f4k-RxigAX9DfNvy&tn=1R1WL9_NuAgv8Udt&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AT-1X2El7Hj_NxX-NYrLf0jKv7TzmRBh8cbLDRMHZZ0zFg&oe=635DD639",
+
+      "details": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing. "
+    }
+
+
+
+
+    
+  ]
